@@ -83,6 +83,15 @@ for any damage, loss or misuse.
 
 Released by **C.Studva** under the MIT license (see `LICENSE`). Free to use, change and share.
 
+## 🍎 More macOS conversions by C.Studva
+
+Same idea — popular Linux tools, packaged to run **natively on your Mac**:
+
+- [**Hash-Buster**](https://github.com/reapersapprentice/Hash-Buster-macOS) — identify & crack hashes in seconds
+- [**theHarvester**](https://github.com/reapersapprentice/theHarvester-macOS) — OSINT emails, subdomains & names for a domain
+- [**Sublist3r**](https://github.com/reapersapprentice/Sublist3r-macOS) — fast subdomain enumeration
+- [**httptunnel**](https://github.com/reapersapprentice/httptunnel-macOS) — tunnel a data stream over HTTP
+
 ---
 
 <p align="center"><sub>macOS conversion crafted by <b>C.Studva</b>.</sub></p>
